@@ -1,5 +1,5 @@
 [package]
-name = "web-test"
+name = "nginx-mocker"
 version = "0.1.0"
 edition = "2021"
 
