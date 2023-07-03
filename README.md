@@ -1,4 +1,4 @@
-# nginx-mocker
+# Nginx Mocker
 
 `nginx-mocker` is a convenient utility designed to simulate the default NGINX web page. Whether you're a developer needing to test applications against an NGINX response, or you're learning about client-server interactions, `nginx-mocker` provides a quick and easy way to mimic an NGINX server behavior. This utility is written in Rust and uses Hyper, an HTTP library for Rust, to create a server that listens to requests and responds with the default NGINX page.
 
